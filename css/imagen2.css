@@ -1,0 +1,19 @@
+.cuerpo{
+    display: flex;
+   
+}
+.cuerpo img{
+    height: 200%;
+    width: 100%;
+}
+.text{
+    padding: 20px
+}
+.titulo{
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+}
+.cart{
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow:0 10px 25px  rgb(158, 158, 158);
+}
